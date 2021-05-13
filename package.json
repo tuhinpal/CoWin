@@ -1,0 +1,29 @@
+{
+  "name": "cowin",
+  "version": "1.0.4",
+  "description": "Cowin NodeJS wrapper",
+  "main": "index.js",
+  "author": "Tuhin Kanti Pal",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cachecleanerjeet/cowin.git"
+  },
+  "keywords": [
+    "cowin",
+    "cowin-wrapper",
+    "nodejs",
+    "cowin-nodejs",
+    "india-covid",
+    "covid19-india",
+    "covaccine",
+    "covishield"
+  ],
+  "bugs": {
+    "url": "https://github.com/cachecleanerjeet/cowin/issues"
+  },
+  "homepage": "https://github.com/cachecleanerjeet/cowin#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
